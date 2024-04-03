@@ -1,4 +1,4 @@
-#Type conversion
+//Type conversion
 
 package main
 
@@ -22,9 +22,11 @@ func main() {
 	fmt.Println(reflect.TypeOf(z))
 }
 
-#Output
-#3 4 5
-#11
-#float32
-#float64
-#uint
+/*
+Output
+3 4 5
+11
+float32
+float64
+uint
+*/
