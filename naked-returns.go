@@ -1,4 +1,4 @@
-#naked returns
+//naked returns
 
 func split(sum int) (x, y int) {
 	x = sum * 4 / 9
